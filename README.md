@@ -30,7 +30,7 @@ The dataset utilized in this project is an open-source Arabic Speech Corpus spec
 
 ## 3. System Architecture Diagram
 
- `![System Architecture Diagram](path/to/diagram.png)`
+ `![System Architecture Diagram]((https://github.com/YoussefWael18/Arabic-speech-to-text-transcription-using-Deepgram-API-/blob/6541b0d65858030641c8d2cd2b3ef372970c1fcc/System%20Architecture%20Diagram.png))`
 
 ---
 
