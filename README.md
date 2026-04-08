@@ -68,7 +68,7 @@ To simplify the evaluation of our experimental results, we developed an asynchro
 - Playable native `<audio>` widgets for listening to test files immediately.
 - Real-time side-by-side rendering comparing the deterministic Buckwalter Text alongside Deepgram's Deep Learning Arabic generation.
 
-![Demo Video](Results.mkv)
+![Demo Video](Results.mp4)
 
 ---
 
