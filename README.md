@@ -1,4 +1,4 @@
-# Arabic-speech-to-text-transcription-using-Deepgram-API-# Arabic Speech-to-Text Pipeline (Deepgram Nova-3)
+# Arabic-speech-to-text-transcription-using-Deepgram-API-(Deepgram Nova-3)
 
 A complete framework for evaluating contemporary cloud-based Speech-to-Text (STT) inference on the Arabic Speech Corpus using Deepgram's Nova-3 AI model, featuring custom tooling for large-scale dataset batching and a graphical user interface for results evaluation.
 
